@@ -32,11 +32,10 @@
   "devDependencies": {
     "@types/node": "^18.7.7",
     "dotenv": "^16.0.1",
-    "eris": "^0.17.1",
     "rimraf": "^3.0.2",
     "typescript": "^4.7.4"
   },
   "peerDependencies": {
-    "eris": "^0.17.1"
+
   }
 }
